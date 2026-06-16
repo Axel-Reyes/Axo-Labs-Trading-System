@@ -27,6 +27,8 @@ Como profesional orientado a **Quality Assurance** y prácticas **ISTQB**, la pl
 - [x] Interfaz de gestión de suscripciones y paywall interno.
 - [x] Alertas instantáneas integradas con la API de Telegram.
 - [x] Despliegue en entorno aislado mediante PyInstaller (`.exe`).
-
+![Axo Labs Dashboard](axo_labs_dashboard.png)
+![Axo Labs Logs](axo_labs_logs.png)
+![Axo Labs Tests QA](tests_qa.png)
 ---
 **Desarrollado por Axel Reyes** | *Junior Quality Assurance Professional & Python Developer*
