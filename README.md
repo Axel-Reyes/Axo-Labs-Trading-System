@@ -29,6 +29,6 @@ Developed with a strong emphasis on **Quality Assurance** and **ISTQB** principl
 - [x] Standalone, sandboxed deployment packaged via PyInstaller (`.exe`).
 ![Axo Labs Dashboard](axo_labs_dashboard.png)
 ![Axo Labs Logs](axo_labs_logs.png)
-![Axo Labs Tests QA](test_qa.png)
+![Axo Labs Tests QA](tests_qa.png)
 ---
 **Developed by Axel Reyes** | *Junior Quality Assurance Professional & Python Developer*
