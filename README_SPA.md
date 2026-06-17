@@ -1,6 +1,6 @@
-# Axo Labs - Algorithmic Trading Terminal
+# DeepAxo - Algorithmic Trading Terminal
 
-**Axo Labs** es una plataforma de escritorio de grado de producción diseñada para el análisis financiero automatizado y la ejecución de operaciones algorítmicas. 
+**DeepAxo** es una plataforma de escritorio de grado de producción diseñada para el análisis financiero automatizado y la ejecución de operaciones algorítmicas. 
 
 *(Nota: Este repositorio funciona como un showcase técnico de arquitectura y control de calidad. El código fuente de los agentes, modelos predictivos y la lógica de gestión de riesgo se mantiene en un repositorio privado por razones de propiedad intelectual).*
 
@@ -27,8 +27,8 @@ Como profesional orientado a **Quality Assurance** y prácticas **ISTQB**, la pl
 - [x] Interfaz de gestión de suscripciones y paywall interno.
 - [x] Alertas instantáneas integradas con la API de Telegram.
 - [x] Despliegue en entorno aislado mediante PyInstaller (`.exe`).
-![Axo Labs Dashboard](axo_labs_dashboard.png)
-![Axo Labs Logs](axo_labs_logs.png)
-![Axo Labs Tests QA](tests_qa.png)
+[DeepAxo Dashboard](deepaxo_dashboard.png)
+![DeepAxo Logs](deepaxo_logs.png)
+![DeepAxo Tests QA](tests_qa.png)
 ---
 **Desarrollado por Axel Reyes** | *Junior Quality Assurance Professional & Python Developer*
