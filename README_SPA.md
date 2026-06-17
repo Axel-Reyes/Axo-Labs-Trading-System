@@ -27,7 +27,8 @@ Como profesional orientado a **Quality Assurance** y prácticas **ISTQB**, la pl
 - [x] Interfaz de gestión de suscripciones y paywall interno.
 - [x] Alertas instantáneas integradas con la API de Telegram.
 - [x] Despliegue en entorno aislado mediante PyInstaller (`.exe`).
-[DeepAxo Dashboard](deepaxo_dashboard.png)
+
+[DeepAxo Dashboaard] (deepaxo_dashboard.png)
 ![DeepAxo Logs](deepaxo_logs.png)
 ![DeepAxo Tests QA](tests_qa.png)
 ---
